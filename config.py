@@ -85,12 +85,12 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://anya-file-host.vercel.app/2y7rq138yq"
+    "https://n.uguu.se/BRHwOXxt.jpg"
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://anya-file-host.vercel.app/yx2ceg0gf9"
+    "https://n.uguu.se/EPwKzdrS.jpg"
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
